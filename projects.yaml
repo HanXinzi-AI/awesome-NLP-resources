@@ -11,14 +11,15 @@ configuration:
   generate_toc: True
   generate_legend: False
   sort_by: star_count
+  hide_empty_categories: True
 
   # Everything here is for gallery view.
   output_generator: markdown-gallery
   default_image: screenshots/NLP.jpeg
   skip_existing_screenshots: True
   ignore_github_screenshot: True
-  wait_before_screenshot: 10
-  projects_per_category: 9
+  wait_before_screenshot: 100
+  #projects_per_category: 9
   projects_per_row: 3
   mobile_version: False
   mobile_markdown_header_file: "config/header-mobile.md"
