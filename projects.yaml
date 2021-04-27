@@ -22,7 +22,7 @@ configuration:
   projects_per_row: 3
   mobile_version: False
   mobile_markdown_header_file: "config/header-mobile.md"
-  short_toc: True
+  short_toc: False
 
 categories:
   - category: 文本分类

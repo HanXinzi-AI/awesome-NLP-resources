@@ -15,3 +15,7 @@
 </p>
 
 本资源清单包含{project_count}个python自然语言处理相关的项目&工具库&资源，这些资源总共分成{category_count}个不同的子板块，这些项目目前在github上已经收到{stars_count}个点赞。所有的工具资源每周会自动从GitHub和工具维护平台采集信息，并更新梳理展示。本清单参考[best-of模板](https://github.com/best-of-lists/best-of)完成，欢迎大家提PR丰富本清单。
+
+---
+
+<br>
