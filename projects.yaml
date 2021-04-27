@@ -57,12 +57,14 @@ projects:
   - name: NeuralNLP-NeuralClassifier(Tencent)
     homepage: https://github.com/Tencent/NeuralNLP-NeuralClassifier
     github_id: Tencent/NeuralNLP-NeuralClassifier
+    image: https://github.com/Tencent/NeuralNLP-NeuralClassifier/raw/master/readme/deeptext_arc.png
     description: Tencent NeuralNLP-NeuralClassifier
     category: 文本分类
     show: True
   - name: text_classification(brightmart)
     homepage: https://github.com/brightmart/text_classification
     github_id: brightmart/text_classification
+    image: https://raw.githubusercontent.com/CLUEbenchmark/CLUE/master/resources/img/CLUEbenchmark.jpg
     description: brightmart text_classification
     category: 文本分类
     show: True
@@ -76,6 +78,7 @@ projects:
   - name: Chinese-Text-Classification-Pytorch
     homepage: https://github.com/649453932/Chinese-Text-Classification-Pytorch
     github_id: 649453932/Chinese-Text-Classification-Pytorch
+    image: https://www.programmersought.com/images/107/4506b6760c20049973b04f847a3f91b3.png
     description: 649453932 Chinese-Text-Classification-Pytorch
     category: 文本分类
     show: True
@@ -83,84 +86,98 @@ projects:
     homepage: https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
     github_id: 649453932/Bert-Chinese-Text-Classification-Pytorch
     description: 649453932 Bert-Chinese-Text-Classification-Pytorch
+    image: https://www.programmersought.com/images/135/7b2cf798b9d78247dd4e4725e639bcbf.JPEG
     category: 文本分类
     show: True
   - name: PaddleNLP
     homepage: https://github.com/PaddlePaddle/PaddleNLP
     github_id: PaddlePaddle/PaddleNLP
     description: PaddlePaddle PaddleNLP
+    image: https://www.programmersought.com/images/132/f51f7b0dc6147b2889c50491ecd5febc.png
     category: 文本分类
     show: True
   - name: Paddle-ERNIE
     homepage: https://github.com/PaddlePaddle/ERNIE
     github_id: PaddlePaddle/ERNIE
     description: PaddlePaddle ERNIE
+    image: https://miro.medium.com/max/2724/0*bjcbYH3AtKbCLnbp.png
     category: 文本分类
     show: True
   - name: facebookresearch-pytext
     homepage: https://github.com/facebookresearch/pytext
     github_id: facebookresearch/pytext
     description: facebookresearch pytext
+    image: https://engineering.fb.com/wp-content/uploads/2018/12/02_PyText_flowchart_research_v2.png
     category: 文本分类
     show: True
   - name: facebookresearch-fastText
     homepage: https://github.com/facebookresearch/fastText
     github_id: facebookresearch/fastText
     description: facebookresearch fastText
+    image: https://opengraph.githubassets.com/113f76e26e34ee63a4b177c43854bc71c21aa148aa722eb01a6276a8158d51e9/facebookresearch/fastText
     category: 文本分类
     show: True
   - name: baidu-Senta
     homepage: https://github.com/baidu/Senta
     github_id: baidu/Senta
     description: baidu Senta
+    image: https://ai.bdstatic.com/file/B7A7B644046A41DB857DAB3536315887
     category: 情感分析
     show: True
   - name: Aspect-Based-Sentiment-Analysis
     homepage: https://github.com/songyouwei/ABSA-PyTorch
     github_id: songyouwei/ABSA-PyTorch
     description: songyouwei ABSA-PyTorch
+    image: https://monkeylearn.com/static/4688cdc9da9b930344235a2b7bddee91/Aspect-based-Sentiment-Analysis-Social-2.png
     category: 情感分析
     show: True
   - name: chinese-customer-review
     homepage: https://github.com/lsvih/chinese-customer-review
     github_id: lsvih/chinese-customer-review
     description: lsvih chinese-customer-review
+    image: https://www.salesleadsinc.com/media/1419/customer-reviews.png
     category: 情感分析
     show: True
   - name: Customer_Satisfaction_Analysis
     homepage: https://github.com/CarryChang/Customer_Satisfaction_Analysis
     github_id: CarryChang/Customer_Satisfaction_Analysis
     description: CarryChang Customer_Satisfaction_Analysis
+    image: https://www.b2binternational.com/wp-content/uploads/2013/10/customer-satisfaction-survey-analysis.png
     category: 情感分析
     show: True
   - name: BDCI2019-Sentiment-classification
     homepage: https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION
     github_id: cxy229/BDCI2019-SENTIMENT-CLASSIFICATION
     description: cxy229 BDCI2019-SENTIMENT-CLASSIFICATION
+    image: https://pic2.zhimg.com/v2-6a89376de4b2ed685b9ab990cdf7908d_b.jpg
     category: 情感分析
     show: True
   - name: pytorch-sentiment-analysis
     homepage: https://github.com/bentrevett/pytorch-sentiment-analysis
     github_id: bentrevett/pytorch-sentiment-analysis
     description: bentrevett pytorch-sentiment-analysis
+    image: https://miro.medium.com/max/1200/1*qJggHpIPUkkzG0KQZ-EUcQ.jpeg
     category: 情感分析
     show: True
   - name: Macadam
     homepage: https://github.com/yongzhuo/Macadam
     github_id: yongzhuo/Macadam
     description: yongzhuo Macadam
+    image: https://github.com/yongzhuo/Macadam/raw/master/test/images/macadam_logo.png
     category: 序列标注
     show: True
   - name: BERT-for-Sequence-Labeling-and-Text-Classification
     homepage: https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification
     github_id: yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification
     description: yuanxiaosc BERT-for-Sequence-Labeling-and-Text-Classification
+    image: https://d2l.ai/_images/bert-tagging.svg
     category: 序列标注
     show: True
   - name: sequence_tagging
     homepage: https://github.com/qiufengyuyi/sequence_tagging
     github_id: qiufengyuyi/sequence_tagging
     description: qiufengyuyi sequence_tagging
+    image: https://miro.medium.com/max/1498/0*maydAVkBzRa_EbmS
     category: 序列标注
     show: True
   - name: seq2annotation
@@ -168,11 +185,13 @@ projects:
     github_id: howl-anderson/seq2annotation
     description: howl-anderson seq2annotation
     category: 序列标注
+    image: https://raw.githubusercontent.com/doccano/doccano/master/docs/images/demo/demo.gif
     show: True
   - name: Chinese-DeepNER
     homepage: https://github.com/z814081807/DeepNER
     github_id: z814081807/DeepNER
     description: z814081807 DeepNER
+    image: https://www.researchgate.net/publication/334511020/figure/fig1/AS:781632013344768@1563367002035/The-taxonomy-of-DL-based-Chinese-NER.png
     category: 序列标注
     show: True
   - name: DeepPavlov
@@ -180,35 +199,41 @@ projects:
     github_id: deepmipt/DeepPavlov
     description: deepmipt DeepPavlov
     category: 问答系统与聊天机器人
+    image: https://static.tildacdn.com/tild3762-3666-4530-b139-666433343863/_DeepPavlov_-5.png
     show: True
   - name: baidu-AnyQ
     homepage: https://github.com/baidu/AnyQ
     github_id: baidu/AnyQ
     description: baidu AnyQ
     category: 问答系统与聊天机器人
+    image: https://www.programmersought.com/images/930/89a3046fdf6aa2a93050469ed26a0922.png
     show: True
   - name: 58-qa_match
     homepage: https://github.com/wuba/qa_match
     github_id: wuba/qa_match
     description: wuba qa_match
     category: 问答系统与聊天机器人
+    image: https://mdimg.wxwenku.com/getimg/6b990ce30fa9193e296dd37902816f4b69b70dccb88f0a2b7dc20d74bf75904aded0376a4c15b95bb6b92d0b060e223f.jpg
     show: True
   - name: Chinese-Chatbot-PyTorch
     homepage: https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation
     github_id: Doragd/Chinese-Chatbot-PyTorch-Implementation
     description: Doragd Chinese-Chatbot-PyTorch-Implementation
+    image: https://i.ytimg.com/vi/8qwowmiXANQ/maxresdefault.jpg
     category: 问答系统与聊天机器人
     show: True
   - name: Chatbot_CN
     homepage: https://github.com/charlesXu86/Chatbot_CN
     github_id: charlesXu86/Chatbot_CN
     description: charlesXu86 Chatbot_CN
+    image: https://cdn-front.kwork.ru/pics/t3/27/13057294-1613930727.jpg
     category: 问答系统与聊天机器人
     show: True
   - name: pytorch-question-answering
     homepage: https://github.com/kushalj001/pytorch-question-answering
     github_id: kushalj001/pytorch-question-answering
     description: kushalj001 pytorch-question-answering
+    image: https://miro.medium.com/max/2404/1*CDPed1_pVXQNnyfZf44N5Q.png
     category: 问答系统与聊天机器人
     show: True
   - name: gpt2-bert-reddit-bot
@@ -216,262 +241,306 @@ projects:
     github_id: lots-of-things/gpt2-bert-reddit-bot
     description: lots-of-things gpt2-bert-reddit-bot
     category: 问答系统与聊天机器人
+    image: https://bonkerfield.org/assets/images/2020/gpt2_bert_workflow.png
     show: True
   - name: haystack
     homepage: https://github.com/deepset-ai/haystack
     github_id: deepset-ai/haystack
     description: deepset-ai haystack
+    image: https://raw.githubusercontent.com/deepset-ai/haystack/master/docs/_src/img/concepts_haystack_handdrawn.png
     category: 问答系统与聊天机器人
     show: True
   - name: NVIDIA-waveglow
     homepage: https://github.com/NVIDIA/waveglow
     github_id: NVIDIA/waveglow
     description: NVIDIA waveglow
+    image: https://developer.nvidia.com/blog/wp-content/uploads/2019/09/Tacotron-2-system-arch.png
     category: 语音应用
     show: True
   - name: TransformerTTS
     homepage: https://github.com/as-ideas/TransformerTTS
     github_id: as-ideas/TransformerTTS
     description: as-ideas TransformerTTS
+    image: https://raw.githubusercontent.com/soobinseo/Transformer-TTS/master/png/model.png
     category: 语音应用
     show: True
   - name: Multilingual_Text_to_Speech
     homepage: https://github.com/Tomiinek/Multilingual_Text_to_Speech
     github_id: Tomiinek/Multilingual_Text_to_Speech
     description: Tomiinek Multilingual_Text_to_Speech
+    image: https://raw.githubusercontent.com/Tomiinek/Multilingual_Text_to_Speech/master/_img/generated.png
     category: 语音应用
     show: True
   - name: TensorFlowTTS
     homepage: https://github.com/TensorSpeech/TensorFlowTTS
     github_id: TensorSpeech/TensorFlowTTS
     description: TensorSpeech TensorFlowTTS
+    image: https://repo.telematika.org/images/project/dathudeptrai_tensorflowtts_hu595a987bd0476f979382a2dc513e07f8_26033_900x500_fit_q75_box.jpg
     category: 语音应用
     show: True
   - name: tacotron2
     homepage: https://github.com/ide8/tacotron2
     github_id: ide8/tacotron2
     description: ide8 tacotron2
+    image: https://www.mdpi.com/information/information-10-00131/article_deploy/html/images/information-10-00131-g003.png
     category: 语音应用
     show: True
   - name: inaSpeechSegmenter
     homepage: https://github.com/ina-foss/inaSpeechSegmenter
     github_id: ina-foss/inaSpeechSegmenter
     description: ina-foss inaSpeechSegmenter
+    image: https://www.researchgate.net/profile/David-Doukhan/publication/335124243/figure/fig1/AS:791063635697669@1565615676660/Interactive-display-of-automatic-speech-segmentation-output-First-layer-is-the-raw-audio.png
     category: 语音应用
     show: True
   - name: OpenTransformer
     homepage: https://github.com/ZhengkunTian/OpenTransformer
     github_id: ZhengkunTian/OpenTransformer
     description: ZhengkunTian OpenTransformer
+    image: https://miro.medium.com/max/758/1*vb_9X5O5MsLngaW-olhVmw.png
     category: 语音应用
     show: True
   - name: Speech-Transformer
     homepage: https://github.com/kaituoxu/Speech-Transformer
     github_id: kaituoxu/Speech-Transformer
     description: kaituoxu Speech-Transformer
+    image: https://d3i71xaburhd42.cloudfront.net/41a78e2885b5dc8c719495a33985b5f4880f5b48/2-Figure1-1.png
     category: 语音应用
     show: True
   - name: ASRT_SpeechRecognition
     homepage: https://github.com/nl8590687/ASRT_SpeechRecognition
     github_id: nl8590687/ASRT_SpeechRecognition
     description: nl8590687 ASRT_SpeechRecognition
+    image: https://hackernoon.com/hn-images/1*ChocH_eUxil5eaeXIsd3rw.png
     category: 语音应用
     show: True
   - name: noisereduce
     homepage: https://github.com/timsainb/noisereduce
     github_id: timsainb/noisereduce
     description: timsainb noisereduce
+    image: https://github.com/timsainb/noisereduce/raw/master/assets/noisereduce.png
     category: 语音应用
     show: True
   - name: Speech-enhancement
     homepage: https://github.com/vbelz/Speech-enhancement
     github_id: vbelz/Speech-enhancement
     description: vbelz Speech-enhancement
+    iamge: https://paperswithcode.com/media/tasks/Screenshot_2019-11-28_at_19.09.29_Ej0XL38.png
     category: 语音应用
     show: True
   - name: QASystemOnMedicalGraph
     homepage: https://github.com/zhihao-chen/QASystemOnMedicalGraph
     github_id: zhihao-chen/QASystemOnMedicalGraph
     description: zhihao-chen QASystemOnMedicalGraph
+    image: https://www.fatalerrors.org/images/blog/b9890f595e0bc007b74895902822b37f.jpg
     category: 知识图谱
     show: True
   - name: stock-knowledge-graph
     homepage: https://github.com/lemonhu/stock-knowledge-graph
     github_id: lemonhu/stock-knowledge-graph
     description: lemonhu stock-knowledge-graph
+    image: https://github.com/lemonhu/stock-knowledge-graph/raw/master/img/stock_graph_demo.png
     category: 知识图谱
     show: True
   - name: KnowledgeGraphData
     homepage: https://github.com/ownthink/KnowledgeGraphData
     github_id: ownthink/KnowledgeGraphData
     description: ownthink KnowledgeGraphData
+    image: https://upload.wikimedia.org/wikipedia/commons/7/70/Schema_DBpedia_2010.png
     category: 知识图谱
     show: True
   - name: Agriculture_KnowledgeGraph
     homepage: https://github.com/qq547276542/Agriculture_KnowledgeGraph
     github_id: qq547276542/Agriculture_KnowledgeGraph
     description: qq547276542 Agriculture_KnowledgeGraph
+    image: https://raw.githubusercontent.com/CrisJk/SomePicture/master/blog_picture/1541921074856.jpg
     category: 知识图谱
     show: True
   - name: KnowledgeGraphCourse
     homepage: https://github.com/npubird/KnowledgeGraphCourse
     github_id: npubird/KnowledgeGraphCourse
     description: npubird KnowledgeGraphCourse
+    image: https://www.csee.umbc.edu/courses/graduate/691/fall19/07/images/kg_header.png
     category: 知识图谱
     show: True
   - name: awesome-knowledge-graph
     homepage: https://github.com/husthuke/awesome-knowledge-graph
     github_id: husthuke/awesome-knowledge-graph
     description: husthuke awesome-knowledge-graph
+    image: https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/graph_not_plots.png
     category: 知识图谱
     show: True
   - name: Financial-Knowledge-Graphs
     homepage: https://github.com/jm199504/Financial-Knowledge-Graphs
     github_id: jm199504/Financial-Knowledge-Graphs
     description: jm199504 Financial-Knowledge-Graphs
+    image: https://miro.medium.com/max/4434/1*rtGi1reACzGiYKLErPnazA.gif
     category: 知识图谱
     show: True
   - name: NLP-Knowledge-Graph
     homepage: https://github.com/lihanghang/NLP-Knowledge-Graph
     github_id: lihanghang/NLP-Knowledge-Graph
     description: lihanghang NLP-Knowledge-Graph
+    image: https://acn-marketing-blog.accenture.com/wp-content/uploads/2020/04/knowledge-graph-model.png
     category: 知识图谱
     show: True
   - name: knowledge-graphs
     homepage: https://github.com/shaoxiongji/knowledge-graphs
     github_id: shaoxiongji/knowledge-graphs
     description: shaoxiongji knowledge-graphs
+    image: https://yashuseth.files.wordpress.com/2019/10/knowledge-graph.jpg
     category: 知识图谱
     show: True
   - name: QASystemOnMedicalKG
     homepage: https://github.com/liuhuanyong/QASystemOnMedicalKG
     github_id: liuhuanyong/QASystemOnMedicalKG
     description: liuhuanyong QASystemOnMedicalKG
+    image: https://www.programmersought.com/images/486/16032b3a810da3ad6dc41c5ca7519f46.png
     category: 知识图谱
     show: True
   - name: texar
     homepage: https://github.com/asyml/texar
     github_id: asyml/texar
     description: asyml texar
+    image: https://miro.medium.com/max/1200/1*OYKZ4SN7JCIyQTIUGrICpw.png
     category: 文本生成
     show: True
   - name: gpt-2-poetry
     homepage: https://github.com/kylemcdonald/gpt-2-poetry
     github_id: kylemcdonald/gpt-2-poetry
     description: kylemcdonald gpt-2-poetry
+    image: https://miro.medium.com/max/934/1*Y3KPIh76fop2D5xcl_L-ZQ.jpeg
     category: 文本生成
     show: True
   - name: CoupletAI
     homepage: https://github.com/WiseDoge/CoupletAI
     github_id: WiseDoge/CoupletAI
     description: WiseDoge CoupletAI
+    image: https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-29908-8_25/MediaObjects/488939_1_En_25_Fig1_HTML.png
     category: 文本生成
     show: True
   - name: transformer-xl-chinese
     homepage: https://github.com/GaoPeng97/transformer-xl-chinese
     github_id: GaoPeng97/transformer-xl-chinese
     description: GaoPeng97 transformer-xl-chinese
+    image: https://www.programmersought.com/images/638/5d55ec5a2845201507d6c56754c4070e.png
     category: 文本生成
     show: True
   - name: gpt2-ml
     homepage: https://github.com/imcaspar/gpt2-ml
     github_id: imcaspar/gpt2-ml
     description: imcaspar gpt2-ml
+    image: https://paper-attachments.dropbox.com/s_972195A84441142620E4C92312EA63C9665C3A86AFFD1D713034FA568ADFC5F9_1555423950294_openai-transformer-language-modeling.png
     category: 文本生成
     show: True
   - name: GPT2-Chinese
     homepage: https://github.com/Morizeyao/GPT2-Chinese
     github_id: Morizeyao/GPT2-Chinese
     description: Morizeyao GPT2-Chinese
+    image: https://raw.githubusercontent.com/Morizeyao/GPT2-Chinese/master/sample/%E9%87%91%E5%BA%B8_%E5%A4%A9%E9%BE%8D%E5%85%AB%E9%83%A8.jpg
     category: 文本生成
     show: True
   - name: QueryGeneration
     homepage: https://github.com/YunwenTechnology/QueryGeneration
     github_id: YunwenTechnology/QueryGeneration
     description: YunwenTechnology QueryGeneration
+    image: https://pic3.zhimg.com/v2-8e849a0288087ab4d4be159e260aac5e_b.jpg
     category: 文本生成
     show: True
   - name: aichpoem
     homepage: https://github.com/wangjiezju1988/aichpoem
     github_id: wangjiezju1988/aichpoem
     description: wangjiezju1988 aichpoem
+    image: https://img-blog.csdnimg.cn/20200611223116774.png
     category: 文本生成
     show: True
   - name: awesome-text-generation
     homepage: https://github.com/ChenChengKuan/awesome-text-generation
     github_id: ChenChengKuan/awesome-text-generation
     description: ChenChengKuan awesome-text-generation
+    image: https://lilianweng.github.io/lil-log/assets/images/GeDi.png
     category: 文本生成
     show: True
   - name: Texygen
     homepage: https://github.com/geek-ai/Texygen
     github_id: geek-ai/Texygen
     description: geek-ai Texygen
+    image: http://5b0988e595225.cdn.sohucs.com/images/20180209/d189c7d1d41a4d9db13b48756a7fe93b.jpeg
     category: 文本生成
     show: True
   - name: texar-pytorch
     homepage: https://github.com/asyml/texar-pytorch
     github_id: asyml/texar-pytorch
     description: asyml texar-pytorch
+    image: https://miro.medium.com/max/1200/1*OYKZ4SN7JCIyQTIUGrICpw.png
     category: 文本生成
     show: True
   - name: TranSummar
     homepage: https://github.com/lipiji/TranSummar
     github_id: lipiji/TranSummar
     description: lipiji TranSummar
+    image: https://www.mosaicdatascience.com/wp-content/uploads/2020/08/transformer-and-computer-generated-summaries-image-2.png
     category: 文本摘要生成
     show: True
   - name: seq2seq-summarizer
     homepage: https://github.com/ymfa/seq2seq-summarizer
     github_id: ymfa/seq2seq-summarizer
     description: ymfa seq2seq-summarizer
+    image: https://user-images.githubusercontent.com/6981180/48382049-1b966b80-e6d7-11e8-9c5a-bc3329426221.png
     category: 文本摘要生成
     show: True
   - name: nnsum
     homepage: https://github.com/kedz/nnsum
     github_id: kedz/nnsum
     description: kedz nnsum
+    image: https://miro.medium.com/max/1005/1*FW5t6k7AhqlpK6yXU9otBg.jpeg
     category: 文本摘要生成
     show: True
   - name: bert-extractive-summarizer
     homepage: https://github.com/dmmiller612/bert-extractive-summarizer
     github_id: dmmiller612/bert-extractive-summarizer
     description: dmmiller612 bert-extractive-summarizer
+    image: https://iq.opengenus.org/content/images/2020/01/pic2.png
     category: 文本摘要生成
     show: True
   - name: Text-Summarization-Papers
     homepage: https://github.com/neulab/Text-Summarization-Papers
     github_id: neulab/Text-Summarization-Papers
     description: neulab Text-Summarization-Papers
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S1319157820303712-gr2.jpg
     category: 文本摘要生成
     show: True
   - name: Bart_T5-summarization
     homepage: https://github.com/renatoviolin/Bart_T5-summarization
     github_id: renatoviolin/Bart_T5-summarization
     description: renatoviolin Bart_T5-summarization
+    image: https://i.ytimg.com/vi/KMyZUIraHio/maxresdefault.jpg
     category: 文本摘要生成
     show: True
   - name: Neural-Abstractive-Text-Summarization
     homepage: https://github.com/tshi04/LeafNATS
     github_id: tshi04/LeafNATS
     description: tshi04 LeafNATS
+    image: https://d3i71xaburhd42.cloudfront.net/b6e414f4a6a7f9bfd39d4acea871a3b53164a0e7/2-Figure1-1.png
     category: 文本摘要生成
     show: True
   - name: GPT2-Summary
     homepage: https://github.com/qingkongzhiqian/GPT2-Summary
     github_id: qingkongzhiqian/GPT2-Summary
     description: qingkongzhiqian GPT2-Summary
+    image: https://miro.medium.com/max/2880/1*BTnLm7X52fI5R6CY4bO2rA.png
     category: 文本摘要生成
     show: True
   - name: GPT2-NewsTitle
     homepage: https://github.com/liucongg/GPT2-NewsTitle
     github_id: liucongg/GPT2-NewsTitle
     description: liucongg GPT2-NewsTitle
+    image: https://www.title-generator.com/images/how-to-write-the-perfect-headline.jpg
     category: 文本摘要生成
     show: True
   - name: awesome-text-summarization
     homepage: https://github.com/icoxfog417/awesome-text-summarization
     github_id: icoxfog417/awesome-text-summarization
+    image: https://raw.githubusercontent.com/icoxfog417/awesome-text-summarization/master/images/fast_abstractive.PNG
     description: icoxfog417 awesome-text-summarization
     category: 文本摘要生成
     show: True
@@ -479,12 +548,14 @@ projects:
     homepage: https://github.com/freefuiiismyname/capsule-mrc
     github_id: freefuiiismyname/capsule-mrc
     description: freefuiiismyname capsule-mrc
+    image: https://www.artificiallawyer.com/wp-content/uploads/2019/05/Screenshot-2019-05-01-at-20.53.31.png
     category: 阅读理解
     show: True
   - name: mt-dnn
     homepage: https://github.com/namisan/mt-dnn
     github_id: namisan/mt-dnn
     description: namisan mt-dnn
+    image: https://miro.medium.com/max/2036/0*f9xMRt_LKw2FqAYu.png
     category: 阅读理解
     show: True
   - name: microsoft-Natural-Language-Understanding
@@ -495,42 +566,49 @@ projects:
     show: True
   - name: Adversarial-Training-for-Natural-Language-Understanding
     homepage: https://github.com/zhuchen03/FreeLB
+    image: https://images.deepai.org/converted-papers/2002.07972/x1.png
     github_id: zhuchen03/FreeLB
     description: zhuchen03 FreeLB
     category: 阅读理解
     show: True
   - name: DeepLearning-For-Time-Series-Forecasting
     homepage: https://github.com/Azure/DeepLearningForTimeSeriesForecasting
+    image: https://raw.githubusercontent.com/dimitreOliveira/MachineLearning/master/Kaggle/Store%20Item%20Demand%20Forecasting%20Challenge/time-series%20graph.png
     github_id: Azure/DeepLearningForTimeSeriesForecasting
     description: Azure DeepLearningForTimeSeriesForecasting
     category: 时间序列
     show: True
   - name: awesome-time-series
     homepage: https://github.com/cuge1995/awesome-time-series
+    image: https://machinelearningmastery.com/wp-content/uploads/2016/11/Minimum-Daily-Temperatures.png
     github_id: cuge1995/awesome-time-series
     description: cuge1995 awesome-time-series
     category: 时间序列
     show: True
   - name: Deep-Time-Series-Prediction
     homepage: https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction
+    image: https://www.mathworks.com/help/examples/nnet/win64/TimeSeriesForecastingUsingDeepLearningExample_05.png
     github_id: EvilPsyCHo/Deep-Time-Series-Prediction
     description: EvilPsyCHo Deep-Time-Series-Prediction
     category: 时间序列
     show: True
   - name: scikit-hts
     homepage: https://github.com/carlomazzaferro/scikit-hts
+    image: https://miro.medium.com/max/4248/1*Ohlkvln3Gp2oj1aKLGVVIQ.png
     github_id: carlomazzaferro/scikit-hts
     description: carlomazzaferro scikit-hts
     category: 时间序列
     show: True
   - name: pytorch-ts
     homepage: https://github.com/zalandoresearch/pytorch-ts
+    image: https://miro.medium.com/max/2625/1*L8iOJqsoXThGiqjTJ50p3g.png
     github_id: zalandoresearch/pytorch-ts
     description: zalandoresearch pytorch-ts
     category: 时间序列
     show: True
   - name: pytorch-forecasting
     homepage: https://github.com/jdb78/pytorch-forecasting
+    image: https://miro.medium.com/max/3168/1*rljR4jjmzOitL41tpqjg-w.png
     github_id: jdb78/pytorch-forecasting
     description: jdb78 pytorch-forecasting
     category: 时间序列
@@ -543,78 +621,91 @@ projects:
     show: True
   - name: neural_prophet
     homepage: https://github.com/ourownstory/neural_prophet
+    image: https://user-images.githubusercontent.com/21246060/111388960-6c367e80-866d-11eb-91c1-46f2c0d21879.PNG
     github_id: ourownstory/neural_prophet
     description: ourownstory neural_prophet
     category: 时间序列
     show: True
   - name: sktime
     homepage: https://github.com/alan-turing-institute/sktime
+    image: https://pbs.twimg.com/media/EhaouUKXsAEY5Mr.jpg
     github_id: alan-turing-institute/sktime
     description: alan-turing-institute sktime
     category: 时间序列
     show: True
   - name: sktime-dl
     homepage: https://github.com/sktime/sktime-dl
+    image: https://analyticsindiamag.com/wp-content/uploads/2021/01/sktime.jpg
     github_id: sktime/sktime-dl
     description: sktime sktime-dl
     category: 时间序列
     show: True
   - name: joeynmt
     homepage: https://github.com/joeynmt/joeynmt
+    image: https://i.ytimg.com/vi/PzWRWSIwSYc/maxresdefault.jpg
     github_id: joeynmt/joeynmt
     description: joeynmt joeynmt
     category: 机器翻译
     show: True
   - name: translators
     homepage: https://github.com/UlionTse/translators
+    image: https://www.globalizationpartners.com/wp-content/uploads/2018/07/machine-translation.jpg
     github_id: UlionTse/translators
     description: UlionTse translators
     category: 机器翻译
     show: True
   - name: EasyNMT
     homepage: https://github.com/UKPLab/EasyNMT
+    image: https://i0.wp.com/www.codeastar.com/wp-content/uploads/2020/01/nmt_4.png
     github_id: UKPLab/EasyNMT
     description: UKPLab EasyNMT
     category: 机器翻译
     show: True
   - name: tensorflow-nmt
     homepage: https://github.com/tensorflow/nmt
+    image: https://www.tensorflow.org/images/seq2seq/attention_mechanism.jpg
     github_id: tensorflow/nmt
     description: tensorflow nmt
     category: 机器翻译
     show: True
   - name: OpenNMT-py
     homepage: https://github.com/OpenNMT/OpenNMT-py
+    image: https://opennmt.net/simple-attn.png
     github_id: OpenNMT/OpenNMT-py
     description: OpenNMT OpenNMT-py
     category: 机器翻译
     show: True
   - name: nematus
     homepage: https://github.com/EdinburghNLP/nematus
+    image: https://repository-images.githubusercontent.com/82418375/a61a0a00-934d-11e9-992f-f9c747537fa1
     github_id: EdinburghNLP/nematus
     description: EdinburghNLP nematus
     category: 机器翻译
     show: True
   - name: OpenNMT-tf
     homepage: https://github.com/OpenNMT/OpenNMT-tf
+    image: https://forum.opennmt.net/uploads/default/original/1X/7698a67776382c70ef690498cbc2a2913cbd9c48.png
     github_id: OpenNMT/OpenNMT-tf
     description: OpenNMT OpenNMT-tf
     category: 机器翻译
     show: True
   - name: facebookresearch-UnsupervisedMT
     homepage: https://github.com/facebookresearch/UnsupervisedMT
+    image: https://iconictranslation.com/wp-content/uploads/2018/10/Issue-11-%E2%80%93-Unsupervised-Neural-MT.jpg
     github_id: facebookresearch/UnsupervisedMT
     description: facebookresearch UnsupervisedMT
     category: 机器翻译
     show: True
   - name: MatchZoo
     homepage: https://github.com/NTMC-Community/MatchZoo
+    image: https://ih1.redbubble.net/image.664873174.4594/flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg
     github_id: NTMC-Community/MatchZoo
     description: NTMC-Community MatchZoo
     category: 文本检索与语义匹配
     show: True
   - name: text_matching
     homepage: https://github.com/terrifyzhao/text_matching
+    image: https://dl.acm.org/cms/attachment/09245b60-8c52-4424-a6b4-e27cbe516960/www19-314-fig1.jpg
     github_id: terrifyzhao/text_matching
     description: terrifyzhao text_matching
     category: 文本检索与语义匹配
@@ -622,41 +713,48 @@ projects:
   - name: awesome-neural-models-for-semantic-match
     homepage: https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
     github_id: NTMC-Community/awesome-neural-models-for-semantic-match
+    image: https://miro.medium.com/max/3200/0*tNnBGjmVzpR8BUxK
     description: NTMC-Community awesome-neural-models-for-semantic-match
     category: 文本检索与语义匹配
     show: True
   - name: TextMatch
     homepage: https://github.com/zhaogaofeng611/TextMatch
+    image: https://flo.flinders.edu.au/pluginfile.php/1753777/mod_book/chapter/113836/AI%206.png
     github_id: zhaogaofeng611/TextMatch
     description: zhaogaofeng611 TextMatch
     category: 文本检索与语义匹配
     show: True
   - name: Semantic-Search
     homepage: https://github.com/renatoviolin/Semantic-Search
+    image: https://4zy7s42hws72i51dv3513vnm-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/banner_semantic_search.jpg
     github_id: renatoviolin/Semantic-Search
     description: renatoviolin Semantic-Search
     category: 文本检索与语义匹配
     show: True
   - name: alibaba-simple-effective-text-matching
     homepage: https://github.com/alibaba-edu/simple-effective-text-matching
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv56fcj5elpIdF7WnH7vz4DsJIOzf1z-9JoRhTrWeLCKBHSJaGmuMZZjw-aCV69e1PFTo&usqp=CAU
     github_id: alibaba-edu/simple-effective-text-matching
     description: alibaba-edu simple-effective-text-matching
     category: 文本检索与语义匹配
     show: True
   - name: alibaba-simple-effective-text-matching-pytorch
     homepage: https://github.com/alibaba-edu/simple-effective-text-matching-pytorch
+    image: https://img-blog.csdnimg.cn/20200615140449786.jpg
     github_id: alibaba-edu/simple-effective-text-matching-pytorch
     description: alibaba-edu simple-effective-text-matching-pytorch
     category: 文本检索与语义匹配
     show: True
   - name: deepmatcher
     homepage: https://github.com/anhaidgroup/deepmatcher
+    image: https://opengraph.githubassets.com/7ff431f2263aeddb4f577f838f177be4131af6267d357b2a5718e029080853fa/anhaidgroup/deepmatcher
     github_id: anhaidgroup/deepmatcher
     description: anhaidgroup deepmatcher
     category: 文本检索与语义匹配
     show: True
   - name: eBay-Sequence-Semantic-Embedding
     homepage: https://github.com/eBay/Sequence-Semantic-Embedding
+    image: https://raw.githubusercontent.com/eBay/Sequence-Semantic-Embedding/master/images/shared-encoderModeForSSE.png
     github_id: eBay/Sequence-Semantic-Embedding
     description: eBay Sequence-Semantic-Embedding
     category: 文本检索与语义匹配
