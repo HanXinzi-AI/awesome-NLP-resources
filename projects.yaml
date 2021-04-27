@@ -464,11 +464,6 @@ projects:
     github_id: ourownstory/neural_prophet
     category: 时间序列
     show: True
-  - name: neural_prophet
-    homepage: https://github.com/ourownstory/neural_prophet
-    github_id: ourownstory/neural_prophet
-    category: 时间序列
-    show: True
   - name: sktime
     homepage: https://github.com/alan-turing-institute/sktime
     github_id: alan-turing-institute/sktime
