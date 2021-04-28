@@ -56,266 +56,266 @@ projects:
   description: Tencent NeuralNLP-NeuralClassifier
   github_id: Tencent/NeuralNLP-NeuralClassifier
   homepage: https://github.com/Tencent/NeuralNLP-NeuralClassifier
-  image: https://github.com/Tencent/NeuralNLP-NeuralClassifier/raw/master/readme/deeptext_arc.png
+  image: ./screenshots/NeuralNLP-NeuralClassifier(Tencent).jpg
   name: NeuralNLP-NeuralClassifier(Tencent)
   show: true
 - category: 文本分类
   description: brightmart text_classification
   github_id: brightmart/text_classification
   homepage: https://github.com/brightmart/text_classification
-  image: https://raw.githubusercontent.com/CLUEbenchmark/CLUE/master/resources/img/CLUEbenchmark.jpg
+  image: ./screenshots/text_classification(brightmart).jpg
   name: text_classification(brightmart)
   show: true
 - category: 文本分类
   description: kk7nc Text_Classification
   github_id: kk7nc/Text_Classification
   homepage: https://github.com/kk7nc/Text_Classification
-  image: https://github.com/kk7nc/Text_Classification/raw/master/docs/pic/WordArt.png
+  image: ./screenshots/Text_Classification.jpg
   name: Text_Classification
   show: true
 - category: 文本分类
   description: 649453932 Chinese-Text-Classification-Pytorch
   github_id: 649453932/Chinese-Text-Classification-Pytorch
   homepage: https://github.com/649453932/Chinese-Text-Classification-Pytorch
-  image: https://www.programmersought.com/images/107/4506b6760c20049973b04f847a3f91b3.png
+  image: ./screenshots/Chinese-Text-Classification-Pytorch.jpg
   name: Chinese-Text-Classification-Pytorch
   show: true
 - category: 文本分类
   description: 649453932 Bert-Chinese-Text-Classification-Pytorch
   github_id: 649453932/Bert-Chinese-Text-Classification-Pytorch
   homepage: https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
-  image: https://www.programmersought.com/images/135/7b2cf798b9d78247dd4e4725e639bcbf.JPEG
+  image: ./screenshots/Bert-Chinese-Text-Classification-Pytorch.jpg
   name: Bert-Chinese-Text-Classification-Pytorch
   show: true
 - category: 文本分类
   description: PaddlePaddle PaddleNLP
   github_id: PaddlePaddle/PaddleNLP
   homepage: https://github.com/PaddlePaddle/PaddleNLP
-  image: https://www.programmersought.com/images/132/f51f7b0dc6147b2889c50491ecd5febc.png
+  image: ./screenshots/PaddleNLP.jpg
   name: PaddleNLP
   show: true
 - category: 文本分类
   description: PaddlePaddle ERNIE
   github_id: PaddlePaddle/ERNIE
   homepage: https://github.com/PaddlePaddle/ERNIE
-  image: https://miro.medium.com/max/2724/0*bjcbYH3AtKbCLnbp.png
+  image: ./screenshots/Paddle-ERNIE.jpg
   name: Paddle-ERNIE
   show: true
 - category: 文本分类
   description: facebookresearch pytext
   github_id: facebookresearch/pytext
   homepage: https://github.com/facebookresearch/pytext
-  image: https://engineering.fb.com/wp-content/uploads/2018/12/02_PyText_flowchart_research_v2.png
+  image: ./screenshots/facebookresearch-pytext.jpg
   name: facebookresearch-pytext
   show: true
 - category: 文本分类
   description: facebookresearch fastText
   github_id: facebookresearch/fastText
   homepage: https://github.com/facebookresearch/fastText
-  image: https://opengraph.githubassets.com/113f76e26e34ee63a4b177c43854bc71c21aa148aa722eb01a6276a8158d51e9/facebookresearch/fastText
+  image: ./screenshots/facebookresearch-fastText.jpg
   name: facebookresearch-fastText
   show: true
 - category: 情感分析
   description: baidu Senta
   github_id: baidu/Senta
   homepage: https://github.com/baidu/Senta
-  image: https://ai.bdstatic.com/file/B7A7B644046A41DB857DAB3536315887
+  image: ./screenshots/baidu-Senta.jpg
   name: baidu-Senta
   show: true
 - category: 情感分析
   description: songyouwei ABSA-PyTorch
   github_id: songyouwei/ABSA-PyTorch
   homepage: https://github.com/songyouwei/ABSA-PyTorch
-  image: https://monkeylearn.com/static/4688cdc9da9b930344235a2b7bddee91/Aspect-based-Sentiment-Analysis-Social-2.png
+  image: ./screenshots/Aspect-Based-Sentiment-Analysis.jpg
   name: Aspect-Based-Sentiment-Analysis
   show: true
 - category: 情感分析
   description: lsvih chinese-customer-review
   github_id: lsvih/chinese-customer-review
   homepage: https://github.com/lsvih/chinese-customer-review
-  image: https://www.salesleadsinc.com/media/1419/customer-reviews.png
+  image: ./screenshots/chinese-customer-review.jpg
   name: chinese-customer-review
   show: true
 - category: 情感分析
   description: CarryChang Customer_Satisfaction_Analysis
   github_id: CarryChang/Customer_Satisfaction_Analysis
   homepage: https://github.com/CarryChang/Customer_Satisfaction_Analysis
-  image: https://www.b2binternational.com/wp-content/uploads/2013/10/customer-satisfaction-survey-analysis.png
+  image: ./screenshots/Customer_Satisfaction_Analysis.jpg
   name: Customer_Satisfaction_Analysis
   show: true
 - category: 情感分析
   description: cxy229 BDCI2019-SENTIMENT-CLASSIFICATION
   github_id: cxy229/BDCI2019-SENTIMENT-CLASSIFICATION
   homepage: https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION
-  image: https://pic2.zhimg.com/v2-6a89376de4b2ed685b9ab990cdf7908d_b.jpg
+  image: ./screenshots/BDCI2019-Sentiment-classification.jpg
   name: BDCI2019-Sentiment-classification
   show: true
 - category: 情感分析
   description: bentrevett pytorch-sentiment-analysis
   github_id: bentrevett/pytorch-sentiment-analysis
   homepage: https://github.com/bentrevett/pytorch-sentiment-analysis
-  image: https://miro.medium.com/max/1200/1*qJggHpIPUkkzG0KQZ-EUcQ.jpeg
+  image: ./screenshots/pytorch-sentiment-analysis.jpg
   name: pytorch-sentiment-analysis
   show: true
 - category: 序列标注
   description: yongzhuo Macadam
   github_id: yongzhuo/Macadam
   homepage: https://github.com/yongzhuo/Macadam
-  image: https://github.com/yongzhuo/Macadam/raw/master/test/images/macadam_logo.png
+  image: ./screenshots/Macadam.jpg
   name: Macadam
   show: true
 - category: 序列标注
   description: yuanxiaosc BERT-for-Sequence-Labeling-and-Text-Classification
   github_id: yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification
   homepage: https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification
-  image: https://d2l.ai/_images/bert-tagging.svg
+  image: ./screenshots/BERT-for-Sequence-Labeling-and-Text-Classification.jpg
   name: BERT-for-Sequence-Labeling-and-Text-Classification
   show: true
 - category: 序列标注
   description: qiufengyuyi sequence_tagging
   github_id: qiufengyuyi/sequence_tagging
   homepage: https://github.com/qiufengyuyi/sequence_tagging
-  image: https://miro.medium.com/max/1498/0*maydAVkBzRa_EbmS
+  image: ./screenshots/sequence_tagging.jpg
   name: sequence_tagging
   show: true
 - category: 序列标注
   description: howl-anderson seq2annotation
   github_id: howl-anderson/seq2annotation
   homepage: https://github.com/howl-anderson/seq2annotation
-  image: https://raw.githubusercontent.com/doccano/doccano/master/docs/images/demo/demo.gif
+  image: ./screenshots/seq2annotation.jpg
   name: seq2annotation
   show: true
 - category: 序列标注
   description: z814081807 DeepNER
   github_id: z814081807/DeepNER
   homepage: https://github.com/z814081807/DeepNER
-  image: https://www.researchgate.net/publication/334511020/figure/fig1/AS:781632013344768@1563367002035/The-taxonomy-of-DL-based-Chinese-NER.png
+  image: ./screenshots/Chinese-DeepNER.jpg
   name: Chinese-DeepNER
   show: true
 - category: 问答系统与聊天机器人
   description: deepmipt DeepPavlov
   github_id: deepmipt/DeepPavlov
   homepage: https://github.com/deepmipt/DeepPavlov
-  image: https://static.tildacdn.com/tild3762-3666-4530-b139-666433343863/_DeepPavlov_-5.png
+  image: ./screenshots/DeepPavlov.jpg
   name: DeepPavlov
   show: true
 - category: 问答系统与聊天机器人
   description: baidu AnyQ
   github_id: baidu/AnyQ
   homepage: https://github.com/baidu/AnyQ
-  image: https://www.programmersought.com/images/930/89a3046fdf6aa2a93050469ed26a0922.png
+  image: ./screenshots/baidu-AnyQ.jpg
   name: baidu-AnyQ
   show: true
 - category: 问答系统与聊天机器人
   description: wuba qa_match
   github_id: wuba/qa_match
   homepage: https://github.com/wuba/qa_match
-  image: https://mdimg.wxwenku.com/getimg/6b990ce30fa9193e296dd37902816f4b69b70dccb88f0a2b7dc20d74bf75904aded0376a4c15b95bb6b92d0b060e223f.jpg
+  image: ./screenshots/58-qa_match.jpg
   name: 58-qa_match
   show: true
 - category: 问答系统与聊天机器人
   description: Doragd Chinese-Chatbot-PyTorch-Implementation
   github_id: Doragd/Chinese-Chatbot-PyTorch-Implementation
   homepage: https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation
-  image: https://i.ytimg.com/vi/8qwowmiXANQ/maxresdefault.jpg
+  image: ./screenshots/Chinese-Chatbot-PyTorch.jpg
   name: Chinese-Chatbot-PyTorch
   show: true
 - category: 问答系统与聊天机器人
   description: charlesXu86 Chatbot_CN
   github_id: charlesXu86/Chatbot_CN
   homepage: https://github.com/charlesXu86/Chatbot_CN
-  image: https://cdn-front.kwork.ru/pics/t3/27/13057294-1613930727.jpg
+  image: ./screenshots/Chatbot_CN.jpg
   name: Chatbot_CN
   show: true
 - category: 问答系统与聊天机器人
   description: kushalj001 pytorch-question-answering
   github_id: kushalj001/pytorch-question-answering
   homepage: https://github.com/kushalj001/pytorch-question-answering
-  image: https://miro.medium.com/max/2404/1*CDPed1_pVXQNnyfZf44N5Q.png
+  image: ./screenshots/pytorch-question-answering.jpg
   name: pytorch-question-answering
   show: true
 - category: 问答系统与聊天机器人
   description: lots-of-things gpt2-bert-reddit-bot
   github_id: lots-of-things/gpt2-bert-reddit-bot
   homepage: https://github.com/lots-of-things/gpt2-bert-reddit-bot
-  image: https://bonkerfield.org/assets/images/2020/gpt2_bert_workflow.png
+  image: ./screenshots/gpt2-bert-reddit-bot.jpg
   name: gpt2-bert-reddit-bot
   show: true
 - category: 问答系统与聊天机器人
   description: deepset-ai haystack
   github_id: deepset-ai/haystack
   homepage: https://github.com/deepset-ai/haystack
-  image: https://raw.githubusercontent.com/deepset-ai/haystack/master/docs/_src/img/concepts_haystack_handdrawn.png
+  image: ./screenshots/haystack.jpg
   name: haystack
   show: true
 - category: 语音应用
   description: NVIDIA waveglow
   github_id: NVIDIA/waveglow
   homepage: https://github.com/NVIDIA/waveglow
-  image: https://developer.nvidia.com/blog/wp-content/uploads/2019/09/Tacotron-2-system-arch.png
+  image: ./screenshots/NVIDIA-waveglow.jpg
   name: NVIDIA-waveglow
   show: true
 - category: 语音应用
   description: as-ideas TransformerTTS
   github_id: as-ideas/TransformerTTS
   homepage: https://github.com/as-ideas/TransformerTTS
-  image: https://raw.githubusercontent.com/soobinseo/Transformer-TTS/master/png/model.png
+  image: ./screenshots/TransformerTTS.jpg
   name: TransformerTTS
   show: true
 - category: 语音应用
   description: Tomiinek Multilingual_Text_to_Speech
   github_id: Tomiinek/Multilingual_Text_to_Speech
   homepage: https://github.com/Tomiinek/Multilingual_Text_to_Speech
-  image: https://raw.githubusercontent.com/Tomiinek/Multilingual_Text_to_Speech/master/_img/generated.png
+  image: ./screenshots/Multilingual_Text_to_Speech.jpg
   name: Multilingual_Text_to_Speech
   show: true
 - category: 语音应用
   description: TensorSpeech TensorFlowTTS
   github_id: TensorSpeech/TensorFlowTTS
   homepage: https://github.com/TensorSpeech/TensorFlowTTS
-  image: https://repo.telematika.org/images/project/dathudeptrai_tensorflowtts_hu595a987bd0476f979382a2dc513e07f8_26033_900x500_fit_q75_box.jpg
+  image: ./screenshots/TensorFlowTTS.jpg
   name: TensorFlowTTS
   show: true
 - category: 语音应用
   description: ide8 tacotron2
   github_id: ide8/tacotron2
   homepage: https://github.com/ide8/tacotron2
-  image: https://www.mdpi.com/information/information-10-00131/article_deploy/html/images/information-10-00131-g003.png
+  image: ./screenshots/tacotron2.jpg
   name: tacotron2
   show: true
 - category: 语音应用
   description: ina-foss inaSpeechSegmenter
   github_id: ina-foss/inaSpeechSegmenter
   homepage: https://github.com/ina-foss/inaSpeechSegmenter
-  image: https://www.researchgate.net/profile/David-Doukhan/publication/335124243/figure/fig1/AS:791063635697669@1565615676660/Interactive-display-of-automatic-speech-segmentation-output-First-layer-is-the-raw-audio.png
+  image: ./screenshots/inaSpeechSegmenter.jpg
   name: inaSpeechSegmenter
   show: true
 - category: 语音应用
   description: ZhengkunTian OpenTransformer
   github_id: ZhengkunTian/OpenTransformer
   homepage: https://github.com/ZhengkunTian/OpenTransformer
-  image: https://miro.medium.com/max/758/1*vb_9X5O5MsLngaW-olhVmw.png
+  image: ./screenshots/OpenTransformer.jpg
   name: OpenTransformer
   show: true
 - category: 语音应用
   description: kaituoxu Speech-Transformer
   github_id: kaituoxu/Speech-Transformer
   homepage: https://github.com/kaituoxu/Speech-Transformer
-  image: https://d3i71xaburhd42.cloudfront.net/41a78e2885b5dc8c719495a33985b5f4880f5b48/2-Figure1-1.png
+  image: ./screenshots/Speech-Transformer.jpg
   name: Speech-Transformer
   show: true
 - category: 语音应用
   description: nl8590687 ASRT_SpeechRecognition
   github_id: nl8590687/ASRT_SpeechRecognition
   homepage: https://github.com/nl8590687/ASRT_SpeechRecognition
-  image: https://hackernoon.com/hn-images/1*ChocH_eUxil5eaeXIsd3rw.png
+  image: ./screenshots/ASRT_SpeechRecognition.jpg
   name: ASRT_SpeechRecognition
   show: true
 - category: 语音应用
   description: timsainb noisereduce
   github_id: timsainb/noisereduce
   homepage: https://github.com/timsainb/noisereduce
-  image: https://github.com/timsainb/noisereduce/raw/master/assets/noisereduce.png
+  image: ./screenshots/noisereduce.jpg
   name: noisereduce
   show: true
 - category: 语音应用
@@ -560,8 +560,8 @@ projects:
   description: microsoft MT-DNN
   github_id: microsoft/MT-DNN
   homepage: https://github.com/microsoft/MT-DNN
-  name: ./screenshots/microsoft-Natural-Language-Understanding
   image: microsoft-Natural-Language-Understanding.jpg
+  name: ./screenshots/microsoft-Natural-Language-Understanding
   show: true
 - category: 阅读理解
   description: zhuchen03 FreeLB
@@ -615,8 +615,8 @@ projects:
 - category: 时间序列
   description: oliverguhr transformer-time-series-prediction
   github_id: oliverguhr/transformer-time-series-prediction
-  image: ./screenshots/transformer-time-series-prediction.jpg
   homepage: https://github.com/oliverguhr/transformer-time-series-prediction
+  image: ./screenshots/transformer-time-series-prediction.jpg
   name: transformer-time-series-prediction
   show: true
 - category: 时间序列
