@@ -560,8 +560,8 @@ projects:
   description: microsoft MT-DNN
   github_id: microsoft/MT-DNN
   homepage: https://github.com/microsoft/MT-DNN
-  image: microsoft-Natural-Language-Understanding.jpg
-  name: ./screenshots/microsoft-Natural-Language-Understanding
+  image: ./screenshots/microsoft-Natural-Language-Understanding.jpg
+  name: microsoft-Natural-Language-Understanding
   show: true
 - category: 阅读理解
   description: zhuchen03 FreeLB
